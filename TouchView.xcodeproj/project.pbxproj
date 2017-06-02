@@ -14,6 +14,7 @@
 		60C16FD41D7979EA0086FBB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60C16FD31D7979EA0086FBB7 /* Assets.xcassets */; };
 		60C16FD71D7979EA0086FBB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60C16FD51D7979EA0086FBB7 /* LaunchScreen.storyboard */; };
 		60C16FE01D797A0E0086FBB7 /* TouchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 60C16FDF1D797A0E0086FBB7 /* TouchView.m */; };
+		60D4F8521EE113B600258329 /* TouchView.gif in Resources */ = {isa = PBXBuildFile; fileRef = 60D4F8511EE113B600258329 /* TouchView.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		60C16FD81D7979EA0086FBB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		60C16FDE1D797A0E0086FBB7 /* TouchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchView.h; sourceTree = "<group>"; };
 		60C16FDF1D797A0E0086FBB7 /* TouchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchView.m; sourceTree = "<group>"; };
+		60D4F8511EE113B600258329 /* TouchView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TouchView.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		60C16FC71D7979EA0086FBB7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				60D4F8511EE113B600258329 /* TouchView.gif */,
 				60C16FC81D7979EA0086FBB7 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -144,6 +147,7 @@
 				60C16FD71D7979EA0086FBB7 /* LaunchScreen.storyboard in Resources */,
 				60C16FD41D7979EA0086FBB7 /* Assets.xcassets in Resources */,
 				60C16FD21D7979EA0086FBB7 /* Main.storyboard in Resources */,
+				60D4F8521EE113B600258329 /* TouchView.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +310,7 @@
 				60C16FDD1D7979EA0086FBB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
